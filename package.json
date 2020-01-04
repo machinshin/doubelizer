@@ -1,0 +1,19 @@
+{
+  "name": "doubelizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"success\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinshin/doubelizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machinshin/doubelizer/issues"
+  },
+  "homepage": "https://github.com/machinshin/doubelizer#readme"
+}
